@@ -1,0 +1,1 @@
+from .payload_validator import JSON_SCHEMA_DRAFT_2020_12
